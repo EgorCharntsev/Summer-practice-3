@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">ThirdApplication</string>
+    <string name="app_name">Third Application</string>
+    <string name="title">Music list</string>
 </resources>
