@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">ThirdApplication</string>
+    <string name="app_name">Third Application</string>
+    <string name="title">Music list</string>
+    <string name="id">Id:</string>
+    <string name="name">Name:</string>
+    <string name="album">Album:</string>
+    <string name="author">Author:</string>
+    <string name="go_to_back">Go to back</string>
 </resources>
